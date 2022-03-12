@@ -1,0 +1,4 @@
+[submodule "electronicInvoice"]
+	path = electronicInvoice
+	url = git@github.com:enrike14/HS_FE_ODOO.git
+	branch = Version14
